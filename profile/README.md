@@ -1,4 +1,4 @@
-# сидзйн Collective
+# седзайн (seedzine) Collective
 
 ### Who Are We?
 We are a group of people who just like to create<br>
