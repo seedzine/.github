@@ -9,3 +9,5 @@ we've made it.<br>
 ### Our Members
 Ivey Verhin - [@iveyverhin](https://github.com/iveyverhin) - Owner<br>
 Patty Baker - [@pottyn](https://github.com/pottyn) - Owner<br>
+<br>
+### Our Sub-Companies
