@@ -1,1 +1,3 @@
-сидзйн Collective
+# сидзйн Collective
+
+### Who Are We?
