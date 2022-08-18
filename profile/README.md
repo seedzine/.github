@@ -10,6 +10,10 @@ we've made or can make it.<br>
 Ivey Verhin - [@iveyverhin](https://github.com/iveyverhin) - Owner<br>
 Patty Baker - [@pottyn](https://github.com/pottyn) - Owner<br>
 <br>
+### Our Projects
+CandyStore - Counter Strike Utility Mod<br>
+SeedYing - Minecraft 1.12.2 Utility Mod<br>
+<br>
 ### Our Socials
 Instagram<br>
 Steam<br>
