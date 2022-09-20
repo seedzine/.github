@@ -1,4 +1,4 @@
-# седзайн (seedzine) Collective
+# сидзайн (seedzine) Collective
 
 ### Who Are We?
 We are a group of people who just like to create<br>
@@ -11,8 +11,7 @@ Ivey Verhin - [@iveyverhin](https://github.com/iveyverhin) - Owner<br>
 Patty Baker - [@pottyn](https://github.com/pottyn) - Owner<br>
 <br>
 ### Our Projects
-CandyStore - Counter Strike Utility Mod<br>
-SeedYing - Minecraft 1.12.2 Utility Mod<br>
+coming soon
 <br>
 ### Our Socials
 Instagram<br>
