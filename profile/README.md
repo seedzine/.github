@@ -14,8 +14,6 @@ Patty Baker - [@pottyn](https://github.com/pottyn) - Owner<br>
 coming soon
 <br>
 ### Our Socials
-Instagram<br>
-Steam<br>
-Twitter<br>
+coming soon
 
 
